@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome to my profile
+Sleepy dev studios is a development team making projects for people to enjoy
+---
+### Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepydevstudios&langs_count=10)
 
-<!--
-**SleepyDevStudios/SleepyDevStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepydevstudios&count_private=true&show_icons=true&include_all_commits=true)
 
-Here are some ideas to get you started:
+### Trophys
+![Awards](https://github-profile-trophy.vercel.app/?username=sleepydevstudios&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Snake game
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
