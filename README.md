@@ -1,5 +1,6 @@
 # Welcome to my profile
-Sleepy dev studios is a development team making projects for people to enjoy
+sleepy dev studios is a development team making projects for people to enjoy
+
 ---
 ### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepydevstudios&langs_count=10)
